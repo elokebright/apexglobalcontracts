@@ -1,0 +1,1539 @@
+<?php
+require_once("../cf/func.php");
+?>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<script type="text/javascript"> var dqsBase = "" ; var dqsCurrDecp="2" </script>
+<link type="text/css" rel="stylesheet" href="template/_common/css/base.min.css" />
+<script type="text/javascript" src="template/_common/js/libs.min.js"></script>
+<script type="text/javascript" src="template/_common/js/base.min8e5e8e5e.html?v=15"></script>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <title>Apex Global Contracts - Earn Crypto</title>
+    <meta content="" name="description"/>
+    <meta content="" name="keywords"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta content="telephone=no" name="format-detection"/>
+    <meta name="HandheldFriendly" content="true"/>
+    <link rel="stylesheet" href="template/assets/css/master.css"/>
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="stylesheet" href="template/assets/css/owl.theme.css"/>
+    <link rel="stylesheet" href="template/assets/css/owl.transitions.css"/>
+    <link rel="stylesheet" type="text/css" href="../capital-traders.ltd/css/tawkto.html" />
+    <link rel="icon" type="image/x-icon" href="template/images/favicon.html"/>
+    <style>
+        @media only screen and (max-width: 600px) {
+  .columns {
+    width: 100%;
+  }
+}
+<style>
+
+.details h4{
+    font-size: 900px;
+    font-weight: bold;
+    color: #043a1d;
+}
+
+@media (max-width: 600px) {
+  .client-pic{
+margin-left:35%
+  }
+  .details h4{
+    font-size: 1700px;
+    font-weight: bold;
+    color: #043a1d;
+}
+
+  .testimony-details{
+    margin-left: 18%;
+  }
+}
+
+.custom_nav{
+    padding: 10px 0px 0px 0px ;
+}
+
+.custom_nav li a{
+  color: #fff
+  
+}
+
+custom_nav li{
+    color: black;
+}
+@media (max-width: 767.98px) {
+  .client-pic{
+margin-left: 17%;
+}
+}
+.header_h3{
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+
+        </style>
+</head>
+<body ng-app='dqsApp'>
+<div class="b-page-wrap">
+
+    <!-- Loader aa333-->
+    <div id="page-preloader"><div class="loader-wrap"><span class="loader02"></span></div></div>
+    <!-- Loader end-->
+
+
+    <!-- ==========================-->
+    <!-- MOBILE MENU-->
+    <!-- ==========================-->
+    <!-- start navbar -->
+  <nav class="navbar_bg navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index-2.html" style="margin-top: 0; padding-top: 0;">
+            <img src="template/assets/media/general/apexlogo.png" style="width: 214px;padding: 4px;">
+        </a> <!-- <a class="navbar-brand" href="index.php"><img src="img/logo.png" alt="logo"></a> -->
+      </div>
+      <div id="navbar" class="navbar-collapse collapse navbar_area">          
+        <ul class="nav navbar-nav navbar-right custom_nav">
+            <li><a style="color: #fff;" href="index-2.html">HOME</a></li>
+            <li><a style="color: #fff;" class="nav-link page-scroll nav_item" href="#about">ABOUT US</a></li>
+            <li><a style="color: #fff;" class="nav-link page-scroll nav_item" href="#plan">PACKAGES</a></li>
+            <li><a style="color: #fff;" class="nav-link page-scroll nav_item" href="#faq">FAQ</a></li>
+            <li><a style="color: #fff;" href="#" data-toggle="modal" data-target="#TermModal">TERMS </a></li>
+            <li><a style="color: #fff;" href="https://www.apexglobalcontracts.com/login">LOGIN </a></li>
+             <li><a style="color: #fff;" href="https://www.apexglobalcontracts.com/register">REGISTER</a></li>
+      <li id="google_translate_element" style="height:40px; overflow:hidden"></li>
+
+         </ul>
+      </div><!--/.nav-collapse -->
+    </div>
+  </nav>
+  <!-- End navbar -->
+
+  <div id="particles-js"></div>
+  <div style="height: max-content;" class="banner-area">
+        <div style="height: max-content;" id="bootcarousel" class="carousel inc-top-heading slide carousel-fade animate_text" data-ride="carousel">
+            <!-- Wrapper for slides -->
+            <div style="height: max-content;" class="carousel-inner text-light carousel-zoom">
+                <div class="item active">
+                    <div class="slider-thumb bg-fixe" style="background-image: url(banner/slider-1.jpg); "></div>
+                    <div class="box-table shadow dark">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div style="padding: 15% 0;" class="row">
+                                    <div class="col-md-8">
+                                        <div style="height: 200%;" class="content">
+                                            <h1 class="header_h1" data-animation="animated slideInLeft ">We serve you Better</h1>
+                                            <h3 class="header_h3" data-animation="animated slideInRight">We hire the
+                                                best traders to serve you better</h3>
+                                                <button style="background-color: #043a1d;" class="btn btn-primary">
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md"
+                                                href="https://apexglobalcontracts.com/register">Get Started</a>
+                                                </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="slider-thumb bg-fixe" style="background-image: url(banner/slider-3.jpg);"></div>
+                    <div class="box-table shadow dark">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div style="padding: 15% 0;" class="row">
+                                    <div class="col-md-8">
+                                        <div class="content">
+                                            <h1 class="header_h1" data-animation="animated slideInDown">Invest with a
+                                                firm you can Trust</h1>
+                                            <h3 class="header_h3" data-animation="animated slideInUp"
+                                                class="text-orange">24/7 monitoring of your investment is assured</h3>
+                                                <button style="background-color: #043a1d;" class="btn btn-primary">
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md"
+                                                href="https://apexglobalcontracts.com/register">Get Started</a>
+                                                </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="slider-thumb bg-fixe" style="background-image: url(banner/9.jpg);"></div>
+                    <div class="box-table shadow dark">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div style="padding: 15% 0;" class="row">
+                                    <div class="col-md-8">
+                                        <div class="content">
+                                            <h1 class="header_h1" data-animation="animated slideInLeft">More
+                                                convenient than others</h1>
+                                            <h3 class="header_h3" data-animation="animated slideInRight">Invest with us
+                                                <span>Today</span><br>Let your money do the <span>hardwork.</span> </h3>
+                                                <button style="background-color: #043a1d;" class="btn btn-primary">
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md"
+                                                href="https://apexglobalcontracts.com/register">Get Started</a>
+                                                </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Wrapper for slides -->
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control shadow" href="#bootcarousel" data-slide="prev">
+                <i class="fa fa-angle-left"></i>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control shadow" href="#bootcarousel" data-slide="next">
+                <i class="fa fa-angle-right"></i>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+            <!--Header section end-->
+
+<div class="clearfix"></div>
+<!-- Admin section start -->
+
+<div class="admin-section wow slideInRight" data-wow-duration="2s">
+<div class="container">
+<div class="row">
+<div class="col-md-12"><!-- admin content start -->
+<div class="admin-content"><!-- admin text start -->
+<div class="admin-text">
+<p>Get access to Your account</p>
+</div>
+<!-- admin text end --><!-- admin user start -->
+
+<div class="admin-user"><a href="https://apexglobalcontracts.com/login"><button name="login" type="submit">sign in</button></a><a href="https://apexglobalcontracts.com/register"><button name="register" type="submit">register now</button></a></div>
+<!-- admin user end --></div>
+<!-- admin-content end --></div>
+</div>
+</div>
+</div>
+<!-- Admin section end -->
+
+<div class="clearfix"></div>
+<!-- Circle Section Start -->
+<div class="container-fluid">
+    <!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {
+  "symbols": [
+    {
+      "proName": "FOREXCOM:SPXUSD",
+      "title": "S&P 500 Index"
+    },
+    {
+      "proName": "FOREXCOM:NSXUSD",
+      "title": "US 100 Cash CFD"
+    },
+    {
+      "proName": "FX_IDC:EURUSD",
+      "title": "EUR to USD"
+    },
+    {
+      "proName": "BITSTAMP:BTCUSD",
+      "title": "Bitcoin"
+    },
+    {
+      "proName": "BITSTAMP:ETHUSD",
+      "title": "Ethereum"
+    },
+    {
+      "description": "Bitcoin Cash",
+      "proName": "CRYPTOCAP:BCH"
+    }
+  ],
+  "showSymbolLogo": true,
+  "isTransparent": false,
+  "displayMode": "adaptive",
+  "colorTheme": "dark",
+  "locale": "en"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+</div>
+            <div class="b-about-additional">
+                <div id="about" class="container">
+                    <div class="row">
+                        
+                        <div class="col-xs-12 col-sm-12 col-md-8">
+                            <h3 class="b-upper-title text-right">
+                                About Us
+                            </h3>
+                        </div>
+                        
+                        <div class="col-xs-12 col-sm-6 col-md-6 wow fadeInLeft" data-wow-delay="0.1s">
+                            
+                            <div class="about-additional-content">
+                                <h3 class="inherit-title">
+                                    Apex Global Contracts
+                                </h3>
+                                <div class="about-additional-text">
+                                    We are strong supporters of Cryptocurrency, blockchain technology and forex trading. We hope to contribute as much as possible to keep the investment community alive and growing. Our vision is to develop along with our clients and make Apex Global Contracts the finest investment company. Our aim is to build a great relationship with you by providing you top quality service.
+                                </div>
+                                <a href="#" data-toggle="modal" data-target="#aboutModal" data-animation="fadeInUp" class="btn btn-primary">
+                                    More information
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-6 text-center wow fadeInRight" data-wow-delay="0.2s">
+                            
+                                <div class="video-caption text-center">
+<video width="100%" height="340" controls>
+<source src="https://res.cloudinary.com/dgqdelttl/video/upload/v1744503928/apexglobal_video_tpftdn.mp4" type="video/mp4">
+
+Your browser does not support the video tag
+</video>
+                                  
+                                    
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+
+<div class="b-layer-main">
+    <!-- Home Features -->
+        <div class="b-home-features">
+        <div class="b-features-columns-holder">
+            <div class="container">
+                <div class="b-icon-heading text-center">
+                <div class="icon">
+                    <i class="fa fa-bar-chart-o" aria-hidden="true"></i>
+                </div>
+                <h3 class="icon-heading-title">
+                    What We Do
+                </h3>
+            </div>
+                <div class="row equal">
+                    <div class="col-xs-12 col-sm-4 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="">
+                         
+                               <img src='aseets-image.jpg' style='width:100%;height:200px'>
+                       
+                            <h2 class="text-bold">
+                                <b>Wealth Management</b>
+                            </h2>
+                            <div class="features-column-text">
+                              As a pioneer in alternative investing, we ensure that your financial goals are uniquely your own, so Apex Global will design a wealth management strategy that is suitable just for you.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="">
+                         
+                               <img src='renew-energy.jpg' style='width:100%;height:200px'>
+                       
+                            <h2 class="text-bold">
+                                <b>Renewable Energy</b>
+                            </h2>
+                            <div class="features-column-text">
+                            We are committed to the future and this has been our driving force. we are at the dawn of a new era of energy, one that is exciting and open to participation, where everyone is connected and has the possibility to do their part in tackling the world’s biggest challenges.
+As a global leader in the energy sector, we’re driving the energy transition from fossil fuels to renewables. It’s a just energy transition that is accessible to all. Green clean and sustainable Energy.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="">
+                         
+                               <img src='gold.jpg' style='width:100%;height:200px'>
+                       
+                            <h2 class="text-bold">
+                                <b>Gold</b>
+                            </h2>
+                            <div class="features-column-text">
+                            Of all the precious metals, the gold is the most popular as investment. The investors usually buy or like a way to diversify risk, especially through the use of futures and derivatives contracts.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+   <div class="row equal">
+                    <div class="col-xs-12 col-sm-4 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="">
+                         
+                               <img src='realestate.jpeg' style='width:100%;height:200px'>
+                       
+                            <h2 class="text-bold">
+                                <b>Real Estate</b>
+                            </h2>
+                            <div class="features-column-text">
+                                We have great interest in real estate trading and investing. Real estate has proven to be one the most profitable assets to invest in.
+                            We offer investment options in most cities important for property multi-family, office, commercial and hotels.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="">
+                         
+                               <img src='oilandgas.jpeg' style='width:100%;height:200px'>
+                       
+                            <h2 class="text-bold">
+                                <b>Oil and Gas</b>
+                            </h2>
+                            <div class="features-column-text">
+                       The oil and gas industry is vital to the global economy, influencing transportation, electricity, and manufacturing. We at Apex Gobal has vast interest in the oil and gas industry, with investments in the downstream and upstream sectors. </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="">
+                         
+                               <img src='crypt.jpg' style='width:100%;height:200px'>
+                       
+                            <h2 class="text-bold">
+                                <b>Cryptocurrency and NFTs</b>
+                            </h2>
+                            <div class="features-column-text">
+                          Apex Global Contracts has developed high-performance servers, dedicated to mining for Bitcoin, Ethereum, Tether, Dodge, Tron, LiteCoin and other most popular cryptocurrencies, also providing other high quality Worldwide services..
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    
+    <div class="b-home-features">
+        <div class="b-features-columns-holder">
+            <div class="container">
+                <div class="b-icon-heading text-center">
+                <div class="icon">
+                    <i class="fa fa-bar-chart-o" aria-hidden="true"></i>
+                </div>
+                <h3 class="icon-heading-title">
+                    How it Works
+                </h3>
+            </div>
+                <div class="row equal">
+                    <div class="col-xs-12 col-sm-4 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="b-features-column">
+                            <div class="features-column-icon">
+                                <i class="flaticon-social"></i>
+                            </div>
+                            <h6 class="features-column-title">
+                                Register!
+                            </h6>
+                            <div class="features-column-text">
+                                Join our global network.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="b-features-column">
+                            <div class="features-column-icon">
+                                <i class="fa fa-sign-in"></i>
+                            </div>
+                            <h6 class="features-column-title">
+                                Login!
+                            </h6>
+                            <div class="features-column-text">
+                                Enjoy high profits regularly.
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-md-4 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="b-features-column ">
+                            <div class="features-column-icon">
+                                <i class="fa fa-money"></i>
+                            </div>
+                            <h6 class="features-column-title">
+                                Deposit!
+                            </h6>
+                            <div class="features-column-text">
+                                Enjoy high profits regularly.
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+<div class="row equal">
+    <div class="col-xs-12 col-sm-4 col-md-4wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="b-features-column">
+                            <div class="features-column-icon">
+                                <i class="fa fa-line-chart"></i>
+                            </div>
+                            <h6 class="features-column-title">
+                                Investment!
+                            </h6>
+                            <div class="features-column-text">
+                                Earn amazing 6%-2%-1% referrals.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="b-features-column">
+                            <div class="features-column-icon">
+                                <i class="fa fa-credit-card"></i>
+                            </div>
+                            <h6 class="features-column-title">
+                                Withdrawal!
+                            </h6>
+                            <div class="features-column-text">
+                                Join our global network.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xs-12 col-sm-4 col-md-4 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="b-features-column">
+                            <div class="features-column-icon">
+                                <i class="flaticon-user"></i>
+                            </div>
+                            <h6 class="features-column-title">
+                                Refer Now!
+                            </h6>
+                            <div class="features-column-text">
+                                Earn amazing 6%-2%-1% referrals.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="b-service-page">
+        <div class="b-helper-wrapper">
+            <!-- Block with shape and page background -->
+            <div class="layer-bg-mod page-layer-bg4">
+                <div class="b-add-info-holder">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-12 col-md-6 wow slideInLeft">
+                                <h3 class="inherit-title">
+                                    Why Choose to Invest in Apex Global Contracts?
+                                </h3>
+                                <div class="row equal">
+                                    <div class="b-add-info col-xs-6 col-sm-6 col-md-6">
+                                        <div class="add-info-number">
+                                            01.
+                                        </div>
+                                        <div class="add-info-content">
+                                            <div class="add-info-content-title">
+                                                Unique design
+                                            </div>
+                                            <div class="add-info-content-text">
+                                                Apex Global Contracts has a user-friendly & intelligible interface so that you can make the most of our investment platform without any hassle.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="b-add-info col-xs-6 col-sm-6 col-md-6">
+                                        <div class="add-info-number">
+                                            02.
+                                        </div>
+                                        <div class="add-info-content">
+                                            <div class="add-info-content-title">
+                                                Professional team
+                                            </div>
+                                            <div class="add-info-content-text">
+                                                Our team has extensive experience in the field of cryptocurrency & forex trading and use flexible strategies to generate maximum profits.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="b-add-info col-xs-6 col-sm-6 col-md-6">
+                                        <div class="add-info-number">
+                                            03.
+                                        </div>
+                                        <div class="add-info-content">
+                                            <div class="add-info-content-title">
+                                                Secure platform
+                                            </div>
+                                            <div class="add-info-content-text">
+                                                Our site is within a dedicated & DDOS protected server.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="b-add-info col-xs-6 col-sm-6 col-md-6">
+                                        <div class="add-info-number">
+                                            04.
+                                        </div>
+                                        <div class="add-info-content">
+                                            <div class="add-info-content-title">
+                                              24/7 Live Support
+                                            </div>
+                                            <div class="add-info-content-text">
+                                                We provide 24x7 client support.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Block with shape -->
+                <div class="shape-bg"></div>
+            </div>
+            <!-- Absolute container with mac bg -->
+            <div class="container-absolute hidden-xs hidden-sm">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12">
+                            <div class="mac-wrapper-mod wow slideInRight">
+                                <div class="mac-mod">
+                                </div>
+                                <a href="https://apexglobalcontracts.com/register">
+                                    <img src="template/assets/media/components/b-service/why-choose-apextrading-.jpg"
+                                         class="img-responsive" alt="/">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <br>
+        </div>
+
+
+        <!-- Price selectors -->
+        <div id="plan" class="b-price pattern-bg">
+            <div class="b-icon-heading text-center wow fadeInLeft">
+                <div class="icon">
+                    <i class="fa fa-bar-chart-o" aria-hidden="true"></i>
+                </div>
+                <h3 class="icon-heading-title">
+                    Our Investment Packages
+                </h3>
+            </div>
+            <div class="container">
+                    <div class="b-offers-holder-full">
+                <div class="row">
+                                                 <?php
+                                
+$getdata = $conn->query("SELECT * FROM plans ORDER BY id ASC");
+while ($dt= $getdata->fetch_assoc()){
+    $x = $dt["id"];
+$name= $dt["name"];
+$rt = $dt["weeklyrate"];
+$min = $dt["minamount"];
+$max = $dt["maxamount"];
+if($max <1){
+    $maxi = "unlimited";
+}
+else{
+    $maxi = "$".$max;
+}
+$ref = $dt["referral"];
+$dur = $dt["duration"];
+if($dur > 30){
+    $dur = $dur/30 . " months"; 
+}
+else{
+     $dur = $dur . " days"; 
+}
+?>
+
+      <div class="col-xs-12 col-sm-4 wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="offer-item even-item text-center offer-content">
+                                <div class="offer-name">
+                                <?=$name?>
+                                </div>
+                                <div class="offer-price">
+                                    <?=$rt?>%
+                                    <span class="price-limit">
+                                                            Weekly Return On Investment
+                                                        </span>
+                                </div>
+
+                                <div class="offer-advantages">
+                                    <div class="row type-2">
+                                        <div class="col-sm-12">
+                                            <ul class="list-unstyled">
+                                                <li>
+                                                    Minimum : <b>$<?=$min?></b>
+                                                </li>
+                                                <li>
+                                                    Maximum : <b><?=$maxi?></b>
+                                                </li>
+                                                <li>
+                                                Contract Duration : <b>6 Month</b>
+                                                </li>
+                                                <li>
+                                                Referral Bonus: <b><?=$ref?>%</b>
+                                                </li>
+                                                <li>
+                                                Compounding : <b><?=$dur?></b>
+                                                </li>
+                                                <li>
+                                                Investors can withdraw profit on weekly basis and capital
+After <?=$dur?>
+                                                </li>
+
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                                    <div style="  border-bottom: 1px solid #e8ecef;
+  padding: 0px 0 70px;
+  margin-bottom: -24px;
+">
+                                    </div>
+                                    <button class="btn btn-primary">
+                                    <a href="https://apexglobalcontracts.com/register">
+                                    Invest Now
+                                    </a>
+                                </button>
+
+                                </div>
+                            </div>
+                        </div>
+		
+                                
+						  
+			<?php
+}
+?>
+                  
+                    
+
+
+
+
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- Reviews -->
+
+        <div class="b-about">
+        <div class="map-bg">
+            <div class="container">
+                <div class="row">
+                    <div id="faq" class="col col-xs-12 wow slideInUp">
+                        <div class="b-icon-heading text-center">
+                <div class="icon">
+                    <i class="fa fa-bar-chart-o" aria-hidden="true"></i>
+                </div>
+                <h3 class="icon-heading-title">
+                    Frequently Asked Questions
+                </h3>
+            </div>
+
+                        <button class="accordion">What is Apex Global Contracts?</button>
+                            <div class="panel">
+                              <p>Apex Global Contracts is officially registered in United Kingdom & its registration number is 10620390. <br>Apex Global Contracts is a leading online investment platform involved in mining & trading of the most popular cryptocurrencies & forex trading.</p>
+                            </div>
+
+                            <button class="accordion">Is Apex Global Contracts available to public?</button>
+                            <div class="panel">
+                              <p>Apex Global Contracts is open for public who are 18 and fulfill the legal age to take part in our program.</p>
+                            </div>
+
+                            <button class="accordion"> How can I check the authenticity of Apex Global Contracts?</button>
+                            <div class="panel">
+                                <p class="item-description">
+                                        Apex Global Contracts has been officially incorporated in 2017. You can check it on the Companies House website: https://beta.companieshouse.gov.uk/company/10620390
+                                    </p>
+                            </div>
+
+                            <button class="accordion">How Does Apex Global Contracts make profit ?</button>
+                            <div class="panel">
+                              <p>Apex Global Contracts is mainly involved in mining & trading of the most popular & lucrative cryptocurrencies in the digital world today & also in forex trading. We are a team of digital money enthusiasts who have been mining cryptocurrencies since their inception in 2009. Subsequently, we also have been trading cryptocurrencies & are involved in foreign exchange hence making great profits.
+</p>
+                            </div>
+
+                            <button class="accordion"> What are the risks of loss of funds for investors?</button>
+                            <div class="panel">
+                              <p>                                        Apex Global Contracts is a platform which is risk-free. However, to avoid unforseen loss, the company continuously fills in its contingency fund. In the case of force majeure situations, Apex Global Contracts investors can expect to receive money back except the profits they received earlier.
+</p>
+                            </div>
+
+                            <button class="accordion">   How can I start investing with Apex Global Contracts ? </button>
+                            <div class="panel">
+                              <p>                                        In order to begin, you should register on our website by filling the registration form. Just click on "Register". After that, you can start investing with us. Please make sure that you must have an e-currency account and must be of legal age of at least 18 years old.
+</p>
+                            </div>
+
+                            <button class="accordion"> I am having trouble during registering, what should I do?  </button>
+                            <div class="panel">
+                              <p>                                        Please check the information you have entered. You may contact our support team at admin@Apex Global Contracts if you need our assistance. We will be glad to help you.
+</p>
+                            </div>
+
+                            <button class="accordion">I wish to invest with Apex Global Contracts but I don't have any e-currency account. What should I do ?  </button>
+                            <div class="panel">
+                              <p>                                        1) You can open a free PM account here: www.perfectmoney.is 2) You can open a free Payeer account here: www.payeer.com 3) You can open a free Advanced Cash account here: www.advcash.com 4) You can open a free Bitcoin account here : www.blockchain.info or coinpayments.net as set by the admin. 5) You can open a free Litecoin account here : coinpayments.net 6) You can open a free Ethereum account here : coinpayments.net
+</p>
+                            </div>
+
+                            <button class="accordion">Can I have more than one account at Apex Global Contracts? </button>
+                            <div class="panel">
+                              <p> No, each member can have only one account in Apex Global Contracts. Any attempt of fraud will result in permanent blocking of the account & the funds deposited in the account will be frozen.</p>
+                            </div>
+                    </div>
+                </div> <!-- end row -->
+
+            </div>
+        </div>
+    </div>
+
+        <div class="b-about-tabs page-layer-bg2">
+            <div class="container wow slideInUp">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 text-center">
+
+                        <!-- Nav tabs -->
+                        <ul class="tabs-controls" role="tablist">
+                            <li role="presentation" class="active">
+                                <a href="#Marketing" aria-controls="Marketing" role="tab" data-toggle="tab">
+                                                    <span class="tabs-icon">
+                                                        <i class="flaticon-people"></i>
+                                                    </span>
+                                    <span class="tabs-name">
+                                                        Referral System
+                                                    </span>
+                                </a>
+
+                            </li>
+                            
+
+                        </ul>
+
+                        <div class="row">
+                            <div class="col-sm-8">
+                                <!-- Tab panes -->
+                                <div class="tab-content">
+                                    <div role="tabpanel" class="tab-pane fade in active" id="Marketing">
+                                        <div class="col-sm-7 text-left">
+                                            <p>When you refer your family, friends and other community members to Apex Global Contracts, you are entitled to 7% on every deposit made by your downline. You do not need to have an active deposit before you can earn from our investment program. For second level , you will receive 3% affiliate commission and for third level you will get 1% affiliate commission.</p>
+
+                                           
+                                                <div style="margin: 0 25%;">
+                                                    <span style="margin-left: 10%;" class="ref-perc text-center">7<sup>%</sup></span>
+                                               
+
+                                                <a href="https://apexglobalcontracts.com/register" class="btn btn-additional">
+                                                    Get Started
+                                                </a>
+                                                <br>
+                                                <br>
+                                                <br>
+
+                                            </div>
+
+                                        </div>
+                                        <div class="col-sm-5 text-center">
+                                            <img src="template/assets/media/content/userpics/referral.png" width="300"
+                                                 height="300"/>
+                                        </div>
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            </div>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+        <!-- start testimonials-section -->
+        <section class="testimonials-section section-padding">
+            <div class="container wow slideInLeft">
+                <br>
+                <br>
+                <br>
+                <div class="row">
+                    <div class="col col-xs-12">
+                        <div class="b-icon-heading text-center">
+                <div class="icon">
+                    <i class="fa fa-bar-chart-o" aria-hidden="true"></i>
+                </div>
+                <h3 class="icon-heading-title">
+                    Testimonials
+                </h3>
+            </div>                    </div>
+                </div>
+                <div class="row">
+                    <div class="col col-lg-10 col-lg-offset-1">
+                        <div class="testimonials-slider testimonials-grids">
+                                 <div class="grid">
+                                <div class="details">
+                                    <img src='template/assets/media/content/userpics/user5.jpeg' style="max-width:150px; height:150px; border-radius:50%">
+                                    <h4>Linda Tucker</h4>
+                                    <span class="client-post">Investor</span>
+                                    <p>As a novice investor, I was initially hesitant to dive into asset trading, but Apex made the process incredibly smooth and understandable. Their consistency in payment of interest have given me the confidence to make continue. It's been a game-changer for my financial future!</p>
+                                </div>
+                            </div>
+                            
+                            <div class="grid">
+                                <div class="details">
+                                    <img src='template/assets/media/content/userpics/user2.jpeg' style="max-width:150px; height:150px; border-radius:50%">
+                                    <h4>Vilijan Massina</h4>
+                                    <span class="client-post">Investor</span>
+                                    <p>Apex Global Contracts is a great company to Invest with! I am extremely happy with the experience, trading services, and support they have given to me.</p>
+                                </div>
+                            </div>
+                            <div class="grid">
+                                <div class="details">
+                                    <img src='template/assets/media/content/userpics/user1.jpeg' style="max-width:150px; height:150px; border-radius:50%">
+                                    <h4>Adalfredo Sharpe</h4>
+                                    <span class="client-post">Investor</span>
+                                    <p>They’ve been consistent throughout the years and grown together with us. Even as they’ve grown, they haven’t lost sight of what they do. Most of their key resources are still with them, which is also a testament to their organization.</p>
+                                </div>
+                            </div>
+                            <div class="grid">
+                                <div class="details">
+                                           <img src='template/assets/media/content/userpics/user10.jpeg' style="max-width:150px; height:150px; border-radius:50%">
+                                    <h4>Eva Kirkpatrick</h4>
+                                    <span class="client-post">Investor</span>
+                                    <p>I have been on this platform for 8 months now, i didnt believe this was real until i took a bold step by investing; and i was surprised what i got in return, Thank you Apex Global Contracts.</p>
+                                </div>
+                            </div>
+                            
+                                 <div class="grid">
+                                <div class="details">
+                                    <img src='template/assets/media/content/userpics/user6.jpeg' style="max-width:150px; height:150px; border-radius:50%">
+                                    <h4>Emily G.</h4>
+                                    <span class="client-post">Investor</span>
+                                    <p>I was referred to Apex by a friend, and it has been one of the best financial decisions I've made in recent years. They have helped me achieve consistent returns on my investments. I highly recommend their services to anyone looking to grow their wealth>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- end container -->
+        </section>
+        <!-- end testimonials-section -->
+
+        
+
+<div class="b-clients wow fadeInUp" style="margin-top: 25px">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12">
+                <ul class="list-inline clients-list">
+                    <li>
+                        <a href="https://perfectmoney.is/" target="_blank">
+                            <img src="template/images/pm.jpg" alt="/" width="150" height="51">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.coinpayments.net/" target="_blank">
+                            <img src="template/images/btc.jpg" alt="/" width="150" height="51">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://advcash.com/" target="_blank">
+                            <img src="template/images/adc.jpg" alt="/" width="150" height="51">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://litecoin.org/" target="_blank">
+                            <img src="template/images/ltc.jpg" alt="/" width="150" height="51">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://payeer.com/" target="_blank">
+                            <img src="template/images/pr.jpg" alt="/" width="150" height="51">
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="https://ethereum.org/" target="_blank">
+                            <img src="template/images/eth.jpg" alt="/" width="150" height="51">
+                        </a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<footer>
+    <div class="b-footer-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-4">
+                <div class="b-footer-box">
+                        <h5 class="footer-box-title">
+                           About Us
+                        </h5>
+                        <div class="about-additional-text">
+                                    We are strong supporters of Cryptocurrency, blockchain technology and forex trading. We hope to contribute as much as possible to keep the investment community alive and growing. Our vision is to develop along with our clients and make Apex Global Contracts the finest investment... <b> <a href="#" data-toggle="modal" data-target="#aboutModal" data-animation="fadeInUp" class="">
+                                    Read More
+                                </a></b>
+                                </div>
+                    </div>
+<br>
+
+
+
+
+
+
+
+                </div>
+                <div class="col-xs-4 col-sm-3 col-md-2">
+                    <div class="b-footer-box">
+                        <h5 class="footer-box-title">
+                           General Links
+                        </h5>
+                        <ul class="list-unstyled">
+                            <li>
+                                <a href="index-2.html">Home</a>
+                            </li>
+                            <li>
+                                <a class="page-scroll" href="#about">About</a>
+                            </li>
+                            <li>
+                                <a href="https://apexglobalcontracts.com/register">Register</a>
+                            </li>
+                            <li>
+                                <a href="https://apexglobalcontracts.com/login">Login</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xs-4 col-sm-3 col-md-2">
+                    <div class="b-footer-box">
+                        <h5 class="footer-box-title">
+                            Quick Links
+                        </h5>
+                        <ul class="list-unstyled">
+                            
+                            <li>
+                                <a class="page-scroll" href="#faq">FAQ</a>
+                            </li>
+                            <li>
+                                <a href="#">Contact</a>
+                            </li>                            
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xs-4 col-sm-3 col-md-2">
+                    <div class="b-footer-box">
+                        <h5 class="footer-box-title">
+                            Legal
+                        </h5>
+                        <ul class="list-unstyled">
+                            <li>
+                                <a href="#" data-toggle="modal" data-target="#TermModal">Terms</a>
+                            </li>
+                            <li>
+                                <a href="#" data-toggle="modal" data-target="#spamModal">Anti Spam Policy</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-3 col-md-2">
+                    <div class="b-footer-box">
+                        <img src="template/images/mcafee.png" width="100%" height="51" />
+                        <p class="footer-mail">
+                            <i class="fa fa-envelope-o"></i> <a href="https://apexglobalcontracts.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="74070104041b0600341504110c04150d000615101d1a135a171b19">[email&#160;protected]</a>
+                        </p>
+                        <div class="footer-date-box" id="clock" data-time="2017-11-08 19:32:10">
+                            <h4 class="footer-date" >
+                                <ul>
+                                    <li id="m-hours">00</li>
+                                    <li id="m-point">:</li>
+                                    <li id="m-min">00</li>
+                                    <li id="m-point">:</li>
+                                    <li id="m-sec">00</li>
+                                    <li>GMT</li>
+                                </ul>
+                                
+                                <div style="float: none; clear: both"></div>
+                            </h4>
+
+                        </div>
+
+                    </div>
+                </div>
+
+  
+            </div>
+
+        </div>
+        <p class="text-center copy">
+                        &copy; 2020 Apex Global Contracts <sup>&reg;</sup> All Right Reserved
+                    </p>
+    </div>
+
+    </footer>
+		<div class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-lg" role="document">
+			  <div class="modal-content">
+				<div class="modal-header">
+				  <h2 class="modal-title" id="exampleModalLabel">Know why you should be interested in Apex Global Contracts.</h2>
+				  <button class="close" type="button"  style="font-size:14px;
+				  position: relative;
+				  padding: 14px 35px;
+				  line-height: 24px;
+				  color: #ffffff;
+				  text-align: center;
+				  font-size: 14px;
+				  font-weight: 700;
+				  background: #043a1d;
+				  letter-spacing: 1px;
+				  text-transform: uppercase;
+				  border: 2px solid #043a1d;
+				  -webkit-transition: ease-out .5s;
+				  -moz-transition: ease-out .5s;
+				  -o-transition: ease-out .5s;
+				  transition: ease-out .5s;
+				  " data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">×</span>
+				  </button>
+				</div>
+				<div class="modal-body">
+					<p class="animation" style="color: #333333; text-align: justify;" data-animation="fadeInUp" data-animation-delay="0.4s">Apex Global Contracts is an investment company & generally our profits comes from two different markets. Majority of the the profit earned is through trading in cryptocurrency market and forex trading markets. Among our company staff are financial analysts and experts in the field of trading and financial forecasting, they have sufficient experience and necessary skills to conduct effective and profitable trading. During the last few years our traders have developed the concept of break-even trade to minimize risks & maximize profits. They use a unique strategy that ensures uninterrupted profits to pay our company's investors. <br>
+                        This platform is designed to accelerate and automate the process of interaction with company investors. A few years of experience, joint coordination and strict observance of principles of managing money and risks are key features of our company. We make sure that investors give the least effort but achieve stable income in the long term. Since it is very difficult to succeed on their own & trading without sufficient trading deposits to operate in comfortably and with big lots, Apex Global Contracts attracts financial assets to make process of earning on the various financial markets easier and more comprehensible.</p>
+						
+				</div>
+				
+                <div class="modal-footer">
+                    <div class="row">
+                        <div style="float: left;">
+				 <a href="https://apexglobalcontracts.com/register"> <button  style="    font-size:14px;
+					padding:10px 41px 10px;
+					position: relative;
+					padding: 14px 35px;
+					line-height: 24px;
+					color: #ffffff;
+					text-align: center;
+					font-size: 14px;
+					font-weight: 700;
+					background: #043a1d;
+					letter-spacing: 1px;
+					text-transform: uppercase;
+					border: 2px solid #043a1d;
+					-webkit-transition: ease-out .5s;
+					-moz-transition: ease-out .5s;
+					-o-transition: ease-out .5s;
+					transition: ease-out .5s;
+                    " class="btn btn-secondary" type="button">Sign Up Now</button></a>
+                </div>
+                <div style="float: right;">
+				   <button class="btn btn-secondary" data-dismiss="modal"  style="    font-size:14px;
+				   padding:10px 41px 10px;
+				   position: relative;
+				   padding: 14px 35px;
+				   line-height: 24px;
+				   color: #ffffff;
+				   text-align: center;
+				   font-size: 14px;
+				   font-weight: 700;
+				   background: #043a1d;
+				   letter-spacing: 1px;
+				   text-transform: uppercase;
+				   border: 2px solid #043a1d;
+				   -webkit-transition: ease-out .5s;
+				   -moz-transition: ease-out .5s;
+				   -o-transition: ease-out .5s;
+				   transition: ease-out .5s;
+                   " type="button">Close</button>
+                </div>
+				</div>
+			  </div>
+			</div>
+          </div>
+        </div>
+    
+
+        <div class="modal fade" id="TermModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-lg" role="document">
+			  <div class="modal-content">
+				<div class="modal-header">
+				  <h2 class="modal-title" id="exampleModalLabel">Terms And Conditions.</h2>
+				  <button class="close" type="button"  style="font-size:14px;
+				  position: relative;
+				  padding: 14px 35px;
+				  line-height: 24px;
+				  color: #ffffff;
+				  text-align: center;
+				  font-size: 14px;
+				  font-weight: 700;
+				  background: #043a1d;
+				  letter-spacing: 1px;
+				  text-transform: uppercase;
+				  border: 2px solid #043a1d;
+				  -webkit-transition: ease-out .5s;
+				  -moz-transition: ease-out .5s;
+				  -o-transition: ease-out .5s;
+				  transition: ease-out .5s;
+				  " data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">×</span>
+				  </button>
+				</div>
+				<div class="modal-body">
+                    <div class="animation" style="color: #333333; text-align: justify;" data-animation="fadeInUp" data-animation-delay="0.4s">
+                <p align="justify">  <h3>In using this website you are deemed to have read and agreed to the following terms and
+                    conditions:</h3>
+
+                <div class="terms">
+                    The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and any or all Agreements: "Client", “You” and “Your” refers to you, the person accessing this website and accepting the Company’s terms and conditions. "The Company", “Ourselves”, “We” and "Us", refers to our Company. “Party”, “Parties”, or “Us”, refers to both the Client and ourselves, or either the Client or ourselves.
+
+                </div><h3>Privacy Statement</h3>
+
+                <div class="terms">
+                    Apex Global Contracts  knows that you care how information about you is used and shared. Hence we make a strong commitment to protect and respect the privacy principles regarding the information that you provide. By using our website, you agree to the terms of this Privacy Statement. Like many websites we use "cookies", and we obtain certain types of information when your web browser accesses our website. All the data given by a member to Apex Global Contracts  will be only privately used and not disclosed to any third parties.
+
+                </div><h3> Confidentiality</h3>
+
+                <div class="terms"> We are committed to protecting your privacy. Authorized employees within the company on a need to know basis only use any information collected from individual customers. We constantly review our systems and data to ensure the best possible service to our customers. We will not sell, share, or rent your personal information to any third party or use your e-mail address for unsolicited mail. Any emails sent by this Company will only be in connection with the provision of agreed services and products.
+                </div>
+
+               <h3> Guidance & Professional advice</h3>
+
+                <div class="terms"> Trading carry a high degree of risk, and may not be suitable for all investors. Before deciding to trade in Apex Global Contracts  you should carefully consider your financial condition and your level of experience. You should be aware of all the risks associated with trading and seek advice from an independent financial adviser if you have any doubts. The possibility exists that you could sustain a loss of some or all of your initial investment and therefore you should not invest money that you cannot afford to lose. You are investing at your own risk and you agree that a past performance is not a guarantee for the same future performance.
+                </div><h3> Use of site</h3>
+
+                <div class="terms"> SPAM violators will be permanently removed from the site with immediate effect. Apex Global Contracts  reserves the right to accept or decline any member for membership without explanation.
+                </div>
+
+               <h3>Responsibilities & General Terms</h3>
+
+                <div class="terms"> Apex Global Contracts  is not available to the general public and is opened only to the members of the site. You agree to be of legal age in your country to join this site and in all the cases your minimum age must be 18 years. The use of this site is restricted to our members. Every deposit is considered to be a private transaction between Apex Global Contracts  and its member.</div>
+                <h3> Disclaimer & Limitation of liability</h3>
+
+                <div class="terms">Both the Client and ourselves have the right to terminate any Services Agreement for any reason,
+                    including the ending of services that are already
+                    underway. No refunds shall be offered, where a Service is deemed to have begun and is, for all intents and purposes,
+                    underway. Any monies that have
+                    been paid to us which constitute payment in respect of the provision of unused Services, shall be refunded.
+                </div>
+               
+           </div>
+
+						
+				</div>
+				
+                <div class="modal-footer">
+                    <div class="row">
+                        <div style="float: left;">
+				 <a href="https://apexglobalcontracts.com/register"> <button  style="    font-size:14px;
+					padding:10px 41px 10px;
+					position: relative;
+					padding: 14px 35px;
+					line-height: 24px;
+					color: #ffffff;
+					text-align: center;
+					font-size: 14px;
+					font-weight: 700;
+					background: #043a1d;
+					letter-spacing: 1px;
+					text-transform: uppercase;
+					border: 2px solid #043a1d;
+					-webkit-transition: ease-out .5s;
+					-moz-transition: ease-out .5s;
+					-o-transition: ease-out .5s;
+					transition: ease-out .5s;
+                    " class="btn btn-secondary" type="button">Sign Up Now</button></a>
+                </div>
+                <div style="float: right;">
+				   <button class="btn btn-secondary" data-dismiss="modal"  style="    font-size:14px;
+				   padding:10px 41px 10px;
+				   position: relative;
+				   padding: 14px 35px;
+				   line-height: 24px;
+				   color: #ffffff;
+				   text-align: center;
+				   font-size: 14px;
+				   font-weight: 700;
+				   background: #043a1d;
+				   letter-spacing: 1px;
+				   text-transform: uppercase;
+				   border: 2px solid #043a1d;
+				   -webkit-transition: ease-out .5s;
+				   -moz-transition: ease-out .5s;
+				   -o-transition: ease-out .5s;
+				   transition: ease-out .5s;
+                   " type="button">Close</button>
+                </div>
+				</div>
+			  </div>
+			</div>
+          </div>
+        </div>
+
+
+
+
+        <div class="modal fade" id="spamModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-lg" role="document">
+			  <div class="modal-content">
+				<div class="modal-header">
+				  <h2 class="modal-title" id="exampleModalLabel">Antispam Policy</h2>
+				  <button class="close" type="button"  style="font-size:14px;
+				  position: relative;
+				  padding: 14px 35px;
+				  line-height: 24px;
+				  color: #ffffff;
+				  text-align: center;
+				  font-size: 14px;
+				  font-weight: 700;
+				  background: #043a1d;
+				  letter-spacing: 1px;
+				  text-transform: uppercase;
+				  border: 2px solid #043a1d;
+				  -webkit-transition: ease-out .5s;
+				  -moz-transition: ease-out .5s;
+				  -o-transition: ease-out .5s;
+				  transition: ease-out .5s;
+				  " data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">×</span>
+				  </button>
+				</div>
+				<div class="modal-body">
+                    <div class="animation" style="color: #333333; text-align: justify;" data-animation="fadeInUp" data-animation-delay="0.4s">
+                        <p align="justify">  <h3>Please go through the Anti Spam policy of Apex Global Contracts  </h3>
+                <h3>What is Spam? </h3>
+
+                <div class="terms">Spam is commercial email or unsolicited bulk email, including "junk mail", which has not been requested by the recipient. It is intrusive and often irrelevant or offensive, and it wastes valuable resources. Spam messages are the opposite of permission-based email, which are normally anticipated, personal, relevant and/or associated with a pre-existing business or personal relationship. Inappropriate newsgroup activities, consisting of excessive posting of the same materials to several newsgroups, are also deemed to be spam.
+                </div>
+                <h3>Preventing Spam </h3>
+                <div class="terms"> Apex Global Contracts  members and affiliates have agreed during their registration process, upon accepting the Terms of Use, to comply with this Anti-Spam Policy. Specifically, each client agrees not to use the Apex Global Contracts  name or link to send unsolicited email or bulk email, whether or not for commercial purposes. Apex Global Contracts  reserves the right to determine in its sole discretion what constitutes actionable spam, as well as what measures are necessary in response to such spam activities. If you believe that you have received spam regarding our services or website, please send us a complaint from your e-mail along with the unsolicited e-mail with completed header at the following e-mail: <a href="https://apexglobalcontracts.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4f3c3a3f3f203d3b0f2e3f2a373f2e363b3d2e2b262128612c2022">[email&#160;protected]</a> Please provide any other information that you believe may help us in our investigation. We will take the appropriate actions to resolve the problem.
+                </div></p>
+               
+           </div>
+
+						
+				</div>
+				
+                <div class="modal-footer">
+                    <div class="row">
+                        <div style="float: left;">
+				 <a href="https://apexglobalcontracts.com/register"> <button  style="    font-size:14px;
+					padding:10px 41px 10px;
+					position: relative;
+					padding: 14px 35px;
+					line-height: 24px;
+					color: #ffffff;
+					text-align: center;
+					font-size: 14px;
+					font-weight: 700;
+					background: #043a1d;
+					letter-spacing: 1px;
+					text-transform: uppercase;
+					border: 2px solid #043a1d;
+					-webkit-transition: ease-out .5s;
+					-moz-transition: ease-out .5s;
+					-o-transition: ease-out .5s;
+					transition: ease-out .5s;
+                    " class="btn btn-secondary" type="button">Sign Up Now</button></a>
+                </div>
+                <div style="float: right;">
+				   <button class="btn btn-secondary" data-dismiss="modal"  style="    font-size:14px;
+				   padding:10px 41px 10px;
+				   position: relative;
+				   padding: 14px 35px;
+				   line-height: 24px;
+				   color: #ffffff;
+				   text-align: center;
+				   font-size: 14px;
+				   font-weight: 700;
+				   background: #043a1d;
+				   letter-spacing: 1px;
+				   text-transform: uppercase;
+				   border: 2px solid #043a1d;
+				   -webkit-transition: ease-out .5s;
+				   -moz-transition: ease-out .5s;
+				   -o-transition: ease-out .5s;
+				   transition: ease-out .5s;
+                   " type="button">Close</button>
+                </div>
+				</div>
+			  </div>
+			</div>
+          </div>
+        </div>
+
+<script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+ function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element2');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+<!-- MAIN SCRIPTS-->
+<script src="template/assets/libs/jquery-1.12.4.min.js"></script>
+<script src="template/assets/libs/jquery-migrate-1.2.1.js"></script>
+<!-- Bootstrap-->
+<script src="template/assets/libs/bootstrap/bootstrap.min.js"></script>
+<!-- Adaptive big text -->
+<script src="template/assets/plugins/slabText/js/jquery.slabtext.min.js"></script>
+<!-- Sliders -->
+<!-- Owl slider -->
+<script src="template/assets/plugins/owl-carousel/owl.carousel.min.js"></script>
+<!-- Slick slider -->
+<script src="template/assets/plugins/slick/slick.min.js"></script>
+<!-- Sly slider -->
+<script src="template/assets/plugins/slyslider/sly.min.js"></script>
+<!-- Bx slider -->
+<script src="template/assets/plugins/bxslider/vendor/jquery.easing.1.3.js"></script>
+<script src="template/assets/plugins/bxslider/vendor/jquery.fitvids.js"></script>
+<script src="template/assets/plugins/bxslider/jquery.bxslider.min.js"></script>
+<!-- Pop-up window-->
+<script src="template/assets/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+<!-- Headers scripts-->
+<script src="template/assets/plugins/headers/slidebar.js"></script>
+<script src="template/assets/plugins/headers/header.js"></script>
+<!-- Filter and sorting images-->
+<script src="template/assets/plugins/isotope/isotope.pkgd.min.js"></script>
+<script src="template/assets/plugins/isotope/imagesLoaded.js"></script>
+<!-- Progress numbers-->
+<script src="template/assets/plugins/jquery.countdown.min.js"></script>
+<script src="template/assets/plugins/jquery-plugin-collection.js"></script>
+<script src="template/assets/plugins/rendro-easy-pie-chart/jquery.easypiechart.min.js"></script>
+<script src="template/assets/plugins/rendro-easy-pie-chart/waypoints.min.js"></script>
+<!-- Entry Animations -->
+<script src="template/assets/plugins/wow.min.js"></script>
+<!-- Calendar plugin -->
+<script src="template/assets/plugins/pickmeup/pickmeup.js"></script>
+<!-- User customization-->
+<script src="template/assets/js/custom.js"></script>
+<script src="template/assets/js/core.min.html"></script>
+<script src="template/assets/js/script.js"></script>
+<script src="template/assets/js/calc.js"></script>
+<script src="template/assets/js/recents.js"></script>
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+acc[i].addEventListener("click", function() {
+this.classList.toggle("active");
+var panel = this.nextElementSibling;
+if (panel.style.maxHeight) {
+panel.style.maxHeight = null;
+} else {
+panel.style.maxHeight = panel.scrollHeight + "px";
+} 
+});
+}
+</script>
+
+
+<script>/*<![CDATA[*/
+    var timezone = 'UTC';
+    
+    $(document).ready(function () {
+
+        var b = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+        var e = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+        var date = new Date();
+        var a = new Date(date.toLocaleString("en-US", {timeZone: timezone}));
+        a.setDate(a.getDate());
+        $("#date, #m-date").html(e[a.getDay()] + ", " + a.getDate() + " " + b[a.getMonth()] + " " + a.getFullYear());
+        setInterval(function () {
+            var f = a.getSeconds()
+        }, 1000);
+        setInterval(function () {
+            var f = a.getMinutes()
+        }, 1000);
+        setInterval(function () {
+            var f = a.getHours()
+        }, 1000);
+        setInterval(d, 1000);
+        function d() {
+            var k = $("#clock"), h = k.data("time"), m = h.split(" "), f = m[1].split(":"), g, l, j;
+
+            g = Number(f[0]);
+            l = Number(f[1]);
+            j = Number(f[2]);
+            j++;
+            if (j == 60) {
+                j = 0;
+                l = l + 1
+            }
+            if (l == 60) {
+                l = 0;
+                g = g + 1
+            }
+            if (g == 24) {
+                g = 0
+            }
+            if (g == 0 && l == 0 && j == 0) {
+                location.reload();
+            }
+            j = c(j);
+            l = c(l);
+            g = c(g);
+            $("#sec, #m-sec").text(j);
+            $("#min, #m-min").text(l);
+            $("#hours, #m-hours").text(g);
+            k.data("time", m[0] + " " + g + ":" + l + ":" + j)
+        }
+
+        function c(f) {
+            return f < 10 ? "0" + f : f
+        }
+    });
+    
+    /*]]>*/
+</script>
+
+   <script type="text/javascript">
+       
+        $('.testimonies').slick({
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            dots: true,
+            arrow: true,
+            autoplay: true,
+            autoplaSpeed: 2000,
+            infinite: true
+        })
+    </script>
+
+<!-- Smartsupp Live Chat script -->
+<script type="text/javascript">
+var _smartsupp = _smartsupp || {};
+_smartsupp.key = '01bcf5deb0618f846b303c2a6823a401c16ce4f7';
+window.smartsupp||(function(d) {
+	var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+	s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+	c.type='text/javascript';c.charset='utf-8';c.async=true;
+	c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+})(document);
+</script>
+</body>
+
+
+</html>

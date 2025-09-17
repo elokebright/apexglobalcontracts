@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+
+<html class=" js "><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Apexglobal Contracts | User panel</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="csrf-token" content="Ic0ESRHjYkuYJD7YkK4rvKpdAucQnnULdnAwKapW">
+
+<!--PayPal-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--/PayPal-->
+
+<!-- Bootstrap Core CSS -->
+<link href="assets/bootstrap.css" rel="stylesheet" type="text/css">
+<!-- Custom CSS -->
+<link href="assets/dashboard_style_default.css" rel="stylesheet" type="text/css">
+<!-- font CSS -->
+<!-- font-awesome icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- //font-awesome icons -->
+ 
+<!--webfonts-->
+<link href="assets/css" rel="stylesheet" type="text/css">
+<!--//webfonts--> 
+<!--animate-->
+<link href="assets/animate.css" rel="stylesheet" type="text/css" media="all">
+<link href="assets/mystyle.css" rel="stylesheet" type="text/css" media="all">
+<script src="assets/wow.min.js.download"></script>
+	<script>
+		 new WOW().init();
+	</script>
+<!--//end-animate-->
+
+<!-- Metis Menu -->
+<script src="assets/jquery.min.js.download"></script> 
+<script src="assets/metisMenu.min.js.download"></script>
+<script src="assets/custom.js.download"></script>
+<link href="assets/custom.css" rel="stylesheet">
+<!--//Metis Menu -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js" integrity="sha512-AA1Bzp5Q0K1KanKKmvN/4d3IRKVlv9PYgwFPvm32nPO6QS8yH1HO7LbgB1pgiOxPtfeg5zEn2ba64MUcqJx6CA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head> 
+<body class="cbp-spmenu-push">
+    
+    <!--PayPal-->
+    <script>
+    
+    // Add your client ID and secret
+    var PAYPAL_CLIENT = '';
+    var PAYPAL_SECRET = '';
+    
+    // Point your server to the PayPal API
+    var PAYPAL_ORDER_API = 'https://api.paypal.com/v2/checkout/orders/';
+
+    </script>
+    
+    <script src="assets/js">
+  </script>
+  
+  <!--/PayPal-->
+
+
+
+	<div class="main-content">
+		<!--left-fixed -navigation-->
+		<div class=" sidebar" role="navigation">
+            <div class="navbar-collapse">
+				<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s1">
+					<ul class="nav in" id="side-menu">
+						<li>
+							<a href="index" class="active"><i class="fa fa-dashboard nav_icon"></i>Dashboard</a>
+						</li>
+					<!--	<li>
+							<a href="#" data-toggle="modal" data-target="#verifyModal"><i class="fa fa-file"> KYC Verify </a> | <a>KYC status: </a>
+						</li> -->
+						<li class="">
+							<a href="https://apexglobalcontracts.com/account#"><i class="fa fa-user nav_icon"></i>Accounts <span class="fa arrow"></span></a>
+							<ul class="nav nav-second-level collapse">
+								<li>
+									<a href="accounts">All Users</a>
+									<a href="kycs">KYCs </a>
+																	
+																	</li>
+							</ul>
+							<!-- /nav-second-level -->
+						</li>
+
+					
+						<li class="">
+							<a href="#"><i class="fa fa-credit-card nav_icon"></i>Deposit/Withdrawal<span class="fa arrow"></span></a>
+							<ul class="nav nav-second-level collapse">
+								<li>
+									<a href="deposits"><i class="fa fa-money nav_icon"></i>Manage Deposits</a>
+									<a href="withdrawals"><i class="fa fa-dollar nav_icon"></i>Manage Withdrawals</a>
+											<a href="block-withdrawals"><i class="fa fa-dollar nav_icon"></i>Block Withdrawal</a>
+								</li>
+							</ul>
+							<!-- /nav-second-level -->
+						</li>
+						
+							<li class="">
+							<a href="#"><i class="fa fa-credit-card nav_icon"></i>Investments<span class="fa arrow"></span></a>
+							<ul class="nav nav-second-level collapse">
+								<li>
+									<a href="investments"><i class="fa fa-money nav_icon"></i>Manage Investments</a>
+								
+								</li>
+							</ul>
+							<!-- /nav-second-level -->
+						</li>
+							<li class="">
+							<a href="#"><i class="fa fa-credit-card nav_icon"></i>Settings<span class="fa arrow"></span></a>
+							<ul class="nav nav-second-level collapse">
+								<li>
+									<a href="addresses"><i class="fa fa-money nav_icon"></i>Wallet Addresses</a>
+									<a href="manageplans"><i class="fa fa-dollar nav_icon"></i>Manage Plans</a>
+									<a href="addresses?edit=password"><i class="fa fa-dollar nav_icon"></i>Change Password</a>		
+								</li>
+							</ul>
+							<!-- /nav-second-level -->
+						</li>
+						
+							<li class="">
+							<a href="#"><i class="fa fa-mail nav_icon"></i>Send Email<span class="fa arrow"></span></a>
+							<ul class="nav nav-second-level collapse">
+								<li>
+									<a href="singlemail"><i class="fa fa-money nav_icon"></i>single user</a>
+									<a href="broadcast"><i class="fa fa-dollar nav_icon"></i>All users</a>
+											
+								</li>
+							</ul>
+							<!-- /nav-second-level -->
+						</li>
+
+
+											</ul>
+					<!-- //sidebar-collapse -->
+				</nav>
+			</div>
+		</div>
+		<!--left-fixed -navigation-->
+		<!-- header-starts -->
+		<div class="sticky-header header-section ">
+			<div class="header-left">
+				<!--toggle button start-->
+				<button id="showLeftPush"><i class="fa fa-bars"></i></button>
+				<!--toggle button end-->
+				<!--logo -->
+				<div class="logo" style="padding:6px; width:200px;">
+					<a href="https://apexglobalcontracts.com/" style="padding-left:15px !important;">
+						<h4><img src="apexlogo.png" width="200" height="50"></h4>
+						
+					</a>
+				</div>
+				<!--//logo-->
+				
+				<div class="clearfix"> </div>
+			</div>
+			<div class="header-right">
+				<div class="profile_details" style="padding:8px; margin-top:15px;">	
+										<a href="https://apexglobalcontracts.com/account/notification"><i style="color:white;" class="fa fa-bell text-white"></i>1</a> &nbsp;| 
+										<a href="https://apexglobalcontracts.com/account#"><i class="fa fa-user "></i>  jeorg</a>
+										| <a href="addresses?edit=Password"><i class="fa fa-key"></i> Change Password</a>
+					| <a href="https://apexglobalcontracts.com/account/accountdetails"><i class="fa fa-edit"></i> Update Account</a>
+					| <a href="https://apexglobalcontracts.com/logout" onclick="event.preventDefault();
+                        document.getElementById(&#39;logout-form&#39;).submit();">
+                        Logout
+                    	</a>
+                    <form id="logout-form" action="https://apexglobalcontracts.com/logout" method="POST" style="display: none;">
+                        <input type="hidden" name="_token" value="Ic0ESRHjYkuYJD7YkK4rvKpdAucQnnULdnAwKapW">
+                    </form> <br><br>
+				</div>
+				<div class="clearfix"> </div>				
+			</div>
+			<div class="clearfix"> </div>	
+		</div>
+		<!-- //header-ends -->
